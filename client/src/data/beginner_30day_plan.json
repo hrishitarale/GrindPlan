@@ -1,0 +1,673 @@
+{
+  "plan": {
+    "title": "My First Month in the Gym - 30 Days Beginner Guide",
+    "videoId": "5xxJP1WNNZ0",
+    "videoUrl": "https://www.youtube.com/watch?v=5xxJP1WNNZ0",
+    "durationWeeks": 4,
+    "note": "Same 3-day routine is repeated every week for all 4 weeks. Weights should be moderate, no set should go to failure. Finish each session in 50-70 minutes. Do a warm-up before and dead hang stretch after every session.",
+    "weeklySchedule": [
+      {
+        "dayOfWeek": "Monday",
+        "dayKey": "day1"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "dayKey": "day2"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "dayKey": "day3"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "dayKey": "day1"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "dayKey": "day2"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "dayKey": "day3"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "dayKey": null,
+        "isRestDay": true
+      }
+    ]
+  },
+  "days": [
+    {
+      "dayKey": "day1",
+      "focus": "Chest & Shoulders",
+      "exercises": [
+        {
+          "order": 1,
+          "name": "Flat Bench Press",
+          "muscleGroup": "chest",
+          "equipment": "barbell, flat bench",
+          "sets": 3,
+          "repsMin": 10,
+          "repsMax": 15,
+          "startSeconds": 109,
+          "endSeconds": 185,
+          "start": "1:49",
+          "end": "3:05",
+          "cues": [
+            "Keep a natural arch in your back",
+            "Grip wider than shoulders, lower bar close to chest",
+            "Slow and steady, no jerking, squeeze the chest"
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Incline Dumbbell Press",
+          "muscleGroup": "chest",
+          "equipment": "dumbbells, incline bench",
+          "sets": 2,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 186,
+          "endSeconds": 266,
+          "start": "3:06",
+          "end": "4:26",
+          "cues": [
+            "Use low incline (about 25 degrees), not high incline",
+            "Do not lower dumbbells too deep, it strains the shoulders",
+            "Keep both feet flat on the floor"
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Pec Deck Fly",
+          "muscleGroup": "chest",
+          "equipment": "pec deck machine",
+          "sets": 2,
+          "repsMin": 10,
+          "repsMax": 15,
+          "startSeconds": 267,
+          "endSeconds": 373,
+          "start": "4:27",
+          "end": "6:13",
+          "cues": [
+            "Adjust seat so shoulders are level with the handles",
+            "Keep a slight bend in the elbows",
+            "Do not pull handles too far back; squeeze then stretch"
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bent Arm Dumbbell Pullover",
+          "muscleGroup": "chest",
+          "equipment": "dumbbell, flat bench",
+          "sets": 2,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 374,
+          "endSeconds": 472,
+          "start": "6:14",
+          "end": "7:52",
+          "cues": [
+            "Lie on the bench with head on it, elbows bent",
+            "Lower only to a comfortable chest stretch to avoid shoulder injury",
+            "Feel contraction in the chest on the way back"
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Front Military Press",
+          "muscleGroup": "shoulders",
+          "equipment": "barbell",
+          "sets": 3,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 473,
+          "endSeconds": 564,
+          "start": "7:53",
+          "end": "9:24",
+          "cues": [
+            "Grip just outside shoulder width",
+            "Press overhead until elbows are straight, move your head under the bar",
+            "No jerking, do not lower the bar extremely"
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dumbbell Side Lateral Raise",
+          "muscleGroup": "shoulders",
+          "equipment": "dumbbells",
+          "sets": 2,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 565,
+          "endSeconds": 627,
+          "start": "9:25",
+          "end": "10:27",
+          "cues": [
+            "Lift both dumbbells until parallel to the ground",
+            "Keep wrist, elbow and shoulder in a straight line",
+            "Controlled reps, no jerk"
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Barbell Upright Row",
+          "muscleGroup": "traps",
+          "equipment": "barbell",
+          "sets": 3,
+          "repsMin": 10,
+          "repsMax": 15,
+          "startSeconds": 628,
+          "endSeconds": 693,
+          "start": "10:28",
+          "end": "11:33",
+          "cues": [
+            "Grip about 6 inches, inside shoulder width",
+            "Pull the bar up close to the chin, bending the elbows",
+            "Lift using the traps and squeeze them"
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "day2",
+      "focus": "Arms & Abs",
+      "exercises": [
+        {
+          "order": 1,
+          "name": "Barbell Curl",
+          "muscleGroup": "biceps",
+          "equipment": "barbell",
+          "sets": 3,
+          "repsMin": 12,
+          "repsMax": 12,
+          "startSeconds": 718,
+          "endSeconds": 788,
+          "start": "11:58",
+          "end": "13:08",
+          "cues": [
+            "Shoulder-width grip",
+            "Do not swing your back; lift with biceps until you feel the squeeze",
+            "Lower fully and let elbows straighten"
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Alternate Dumbbell Curl",
+          "muscleGroup": "biceps",
+          "equipment": "dumbbells",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 12,
+          "repsNote": "12 per arm (24 total per set)",
+          "startSeconds": 789,
+          "endSeconds": 863,
+          "start": "13:09",
+          "end": "14:23",
+          "cues": [
+            "Rotate the dumbbell as you curl up, turn back halfway down",
+            "Keep elbows still",
+            "Alternate hands while the other arm rests"
+          ]
+        },
+        {
+          "order": 3,
+          "name": "V-Bar Push Down",
+          "muscleGroup": "triceps",
+          "equipment": "cable machine, V-bar",
+          "sets": 3,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 864,
+          "endSeconds": 942,
+          "start": "14:24",
+          "end": "15:42",
+          "cues": [
+            "Moderate weight, learn the form first",
+            "Lean slightly forward from the pelvis",
+            "Keep elbows fixed, push down until arms are straight and squeeze triceps"
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Both Arm Barbell French Press",
+          "muscleGroup": "triceps",
+          "equipment": "barbell, bench",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 12,
+          "startSeconds": 943,
+          "endSeconds": 1042,
+          "start": "15:43",
+          "end": "17:22",
+          "cues": [
+            "Grip about 8 inches wide",
+            "Lower the bar only to a comfortable stretch",
+            "Let elbows move naturally, do not force them inward"
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Barbell Wrist Curl",
+          "muscleGroup": "forearms",
+          "equipment": "barbell, flat bench",
+          "sets": 3,
+          "repsMin": 15,
+          "repsMax": 15,
+          "startSeconds": 1043,
+          "endSeconds": 1127,
+          "start": "17:23",
+          "end": "18:47",
+          "cues": [
+            "Sit on the floor, forearms resting on the bench, wrists hanging off",
+            "Grip about 6 inches, inside shoulder width",
+            "Curl the wrists up, then stretch down slowly"
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Leg Raise",
+          "muscleGroup": "abs",
+          "equipment": "mat",
+          "sets": 2,
+          "repsMin": 20,
+          "repsMax": 20,
+          "repsNote": "20 per leg (40 total per set)",
+          "startSeconds": 1128,
+          "endSeconds": 1186,
+          "start": "18:48",
+          "end": "19:46",
+          "cues": [
+            "Hands under hips, one leg at a time as a beginner",
+            "Keep knee soft, lower leg without touching the floor",
+            "Engage the abs, slow and steady"
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Knee High Crunches",
+          "muscleGroup": "abs",
+          "equipment": "mat",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 15,
+          "startSeconds": 1187,
+          "endSeconds": 1242,
+          "start": "19:47",
+          "end": "20:42",
+          "cues": [
+            "Legs in the air with knees bent, hands behind head",
+            "Lift only your upper back as far as comfortable",
+            "Squeeze at the top for a second, then lower fully"
+          ]
+        }
+      ]
+    },
+    {
+      "dayKey": "day3",
+      "focus": "Back & Legs",
+      "exercises": [
+        {
+          "order": 1,
+          "name": "Lat Pull Down",
+          "muscleGroup": "back",
+          "equipment": "lat pulldown machine",
+          "sets": 3,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 1252,
+          "endSeconds": 1329,
+          "start": "20:52",
+          "end": "22:09",
+          "cues": [
+            "Grip about 28 inches, outside shoulder width",
+            "Secure knees under the pad",
+            "Pull to upper chest, keep shoulders down, squeeze the back"
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Mid Row",
+          "muscleGroup": "back",
+          "equipment": "cable machine, V-handle",
+          "sets": 2,
+          "repsMin": 10,
+          "repsMax": 12,
+          "startSeconds": 1330,
+          "endSeconds": 1431,
+          "start": "22:10",
+          "end": "23:51",
+          "cues": [
+            "Retract shoulders and lift chest before pulling",
+            "Pull handle to the abs, pause 1 second, squeeze the back",
+            "Do not round the back or let shoulders roll forward on release"
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Barbell Shrugs",
+          "muscleGroup": "traps",
+          "equipment": "barbell",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 12,
+          "startSeconds": 1432,
+          "endSeconds": 1509,
+          "start": "23:52",
+          "end": "25:09",
+          "cues": [
+            "Grip outside shoulder width",
+            "Lift shoulders as high as comfortable and pause 1 second",
+            "Use the traps, connect mind to muscle"
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Squats",
+          "muscleGroup": "quads",
+          "equipment": "bodyweight / barbell",
+          "sets": 3,
+          "repsMin": 12,
+          "repsMax": 15,
+          "startSeconds": 1510,
+          "endSeconds": 1624,
+          "start": "25:10",
+          "end": "27:04",
+          "cues": [
+            "Feet shoulder-width, toes slightly outward",
+            "Sit back until thighs are parallel to the ground; knees should not go past toes",
+            "Chest up, back straight, never fully lock the knees during the set"
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Leg Press",
+          "muscleGroup": "quads",
+          "equipment": "leg press machine",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 15,
+          "startSeconds": 1625,
+          "endSeconds": 1737,
+          "start": "27:05",
+          "end": "28:57",
+          "cues": [
+            "Feet centered on the platform, toes slightly pointed out",
+            "Do not lower so far that hips lift off the pad",
+            "Keep knees slightly bent at the top, never lock out"
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lying Leg Curl",
+          "muscleGroup": "hamstrings",
+          "equipment": "lying leg curl machine",
+          "sets": 2,
+          "repsMin": 12,
+          "repsMax": 12,
+          "startSeconds": 1739,
+          "endSeconds": 1808,
+          "start": "28:59",
+          "end": "30:08",
+          "cues": [
+            "Pad sits just above the ankles, knees just off the pad edge",
+            "Curl up until hamstrings squeeze",
+            "Do not fully straighten the knees, keep tension on the hamstrings"
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Standing Calf Raise",
+          "muscleGroup": "calves",
+          "equipment": "platform",
+          "sets": 3,
+          "repsMin": 15,
+          "repsMax": 20,
+          "startSeconds": 1809,
+          "endSeconds": 1873,
+          "start": "30:09",
+          "end": "31:13",
+          "cues": [
+            "Balls of feet on the platform, heels free, knees slightly bent",
+            "Rise up on toes until you feel a strong squeeze",
+            "Lower heels fully for a good stretch; light hand support is fine"
+          ]
+        }
+      ]
+    }
+  ],
+  "extraSections": [
+    {
+      "title": "Weekly schedule explained",
+      "startSeconds": 1875,
+      "endSeconds": 1898,
+      "start": "31:15",
+      "end": "31:38",
+      "approximate": true
+    },
+    {
+      "title": "Dead hang stretch after every workout",
+      "startSeconds": 1904,
+      "endSeconds": 1922,
+      "start": "31:44",
+      "end": "32:02",
+      "approximate": true
+    }
+  ],
+  "beginnerTips": [
+    {
+      "title": "Breathing pattern",
+      "startSeconds": 1927,
+      "endSeconds": 1960,
+      "start": "32:07",
+      "end": "32:40",
+      "summary": "Breathe out when you contract the muscle (lifting against gravity), breathe in on the way back.",
+      "approximate": true
+    },
+    {
+      "title": "Muscle pump",
+      "startSeconds": 1960,
+      "endSeconds": 2015,
+      "start": "32:40",
+      "end": "33:35",
+      "summary": "Muscles swell after 3-4 sets. It fades within hours, which is normal. If you never feel it, check diet, sleep and intensity.",
+      "approximate": true
+    },
+    {
+      "title": "Muscle soreness",
+      "startSeconds": 2016,
+      "endSeconds": 2047,
+      "start": "33:36",
+      "end": "34:07",
+      "summary": "Soreness starts about 36 hours after training and can last another 36 hours. It is normal, keep training regularly.",
+      "approximate": true
+    },
+    {
+      "title": "Good pain vs bad pain",
+      "startSeconds": 2048,
+      "endSeconds": 2091,
+      "start": "34:08",
+      "end": "34:51",
+      "summary": "Muscle burn in the last few reps is good pain. Joint pain or extreme pulling is bad pain: stop, ice it, and see a doctor.",
+      "approximate": true
+    },
+    {
+      "title": "Avoid overtraining",
+      "startSeconds": 2092,
+      "endSeconds": 2123,
+      "start": "34:52",
+      "end": "35:23",
+      "summary": "More exercise does not mean more muscle. Keep the whole session between 50 and 70 minutes.",
+      "approximate": true
+    },
+    {
+      "title": "Workout timing",
+      "startSeconds": 2124,
+      "endSeconds": 2150,
+      "start": "35:24",
+      "end": "35:50",
+      "summary": "Any time of day works, but train at the same time every day so your body clock and meals stay consistent.",
+      "approximate": true
+    }
+  ],
+  "warmup": {
+    "title": "Warm-Up (do before every workout)",
+    "estimatedMinutes": "8-10",
+    "appliesToDays": [
+      "day1",
+      "day2",
+      "day3"
+    ],
+    "note": "Keep the warm-up short (5-10 min). Finish with 1-2 light ramp-up sets of your first exercise before working sets.",
+    "video": {
+      "videoId": "jSopzKgpumE",
+      "videoUrl": "https://www.youtube.com/watch?v=jSopzKgpumE",
+      "channel": "Yatinder Singh",
+      "note": "Warm-up section is only the first ~1:38 of this video; the rest covers abs exercises."
+    },
+    "exercises": [
+      {
+        "order": 1,
+        "name": "Joint Rotations",
+        "targetArea": "full body",
+        "startSeconds": 0,
+        "endSeconds": 14,
+        "start": "0:00",
+        "end": "0:14",
+        "notes": "General front and back rotations, clockwise and anti-clockwise."
+      },
+      {
+        "order": 2,
+        "name": "Wrist Rotations",
+        "targetArea": "wrists",
+        "startSeconds": 14,
+        "endSeconds": 17,
+        "start": "0:14",
+        "end": "0:17",
+        "notes": "Clockwise and anti-clockwise rotations."
+      },
+      {
+        "order": 3,
+        "name": "Toe Touches",
+        "targetArea": "hamstrings, lower back",
+        "startSeconds": 21,
+        "endSeconds": 42,
+        "start": "0:21",
+        "end": "0:42",
+        "notes": "Stretch down to touch your feet with legs slightly apart."
+      },
+      {
+        "order": 4,
+        "name": "Ankle Twists",
+        "targetArea": "ankles",
+        "startSeconds": 44,
+        "endSeconds": 54,
+        "start": "0:44",
+        "end": "0:54",
+        "notes": "Rotate ankles clockwise and anti-clockwise."
+      },
+      {
+        "order": 5,
+        "name": "Hip Joint Rotations",
+        "targetArea": "hips",
+        "startSeconds": 54,
+        "endSeconds": 64,
+        "start": "0:54",
+        "end": "1:04",
+        "notes": "Rotate hips for better mobility."
+      },
+      {
+        "order": 6,
+        "name": "Jumping",
+        "targetArea": "full body",
+        "startSeconds": 66,
+        "endSeconds": 76,
+        "start": "1:06",
+        "end": "1:16",
+        "notes": "Brief rest between the two sets.",
+        "sets": 2,
+        "reps": 25,
+        "repsNote": "25 jumps per set"
+      },
+      {
+        "order": 7,
+        "name": "Neck Rotations",
+        "targetArea": "neck",
+        "startSeconds": 76,
+        "endSeconds": 83,
+        "start": "1:16",
+        "end": "1:23",
+        "notes": "Clockwise and anti-clockwise, keep it slow and gentle."
+      },
+      {
+        "order": 8,
+        "name": "High Knees",
+        "targetArea": "hips, legs",
+        "startSeconds": 87,
+        "endSeconds": 98,
+        "start": "1:27",
+        "end": "1:38",
+        "notes": "Alternating leg raises."
+      }
+    ],
+    "additionalExercises": [
+      {
+        "order": 1,
+        "name": "Arm Circles",
+        "targetArea": "shoulders",
+        "notes": "30 seconds, forward and backward",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "durationSeconds": 30
+      },
+      {
+        "order": 2,
+        "name": "Leg Swings",
+        "targetArea": "hips, hamstrings",
+        "notes": "30 seconds per leg, forward and back",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "durationSeconds": 30,
+        "perSide": true
+      },
+      {
+        "order": 3,
+        "name": "World's Greatest Stretch",
+        "targetArea": "hips, hamstrings, thoracic spine",
+        "notes": "5 reps per side",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "reps": 5,
+        "perSide": true
+      },
+      {
+        "order": 4,
+        "name": "Bodyweight Squats",
+        "targetArea": "quads, glutes",
+        "notes": "10 slow reps",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "reps": 10
+      },
+      {
+        "order": 5,
+        "name": "Inchworm",
+        "targetArea": "hamstrings, core, shoulders",
+        "notes": "5 reps",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "reps": 5
+      },
+      {
+        "order": 6,
+        "name": "Dynamic Mobility Drills",
+        "targetArea": "full body",
+        "notes": "30 seconds, choose moves for the day's muscles",
+        "videoId": null,
+        "source": "suggested (no video timestamp yet)",
+        "durationSeconds": 30
+      }
+    ]
+  }
+}

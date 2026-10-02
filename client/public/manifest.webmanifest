@@ -1,0 +1,10 @@
+{
+  "name": "GrindPlan — Workout Planner",
+  "short_name": "GrindPlan",
+  "description": "Your training plan, workout log, and progress in one place.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0F12",
+  "theme_color": "#0D0F12",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
